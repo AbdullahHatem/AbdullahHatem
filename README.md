@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbdullahHatem
-- 👀 I’m interested in dataalysis
+- 👀 I’m interested in data science/anlysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
